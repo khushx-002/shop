@@ -1,0 +1,7 @@
+comment_ID,comment_post_ID,comment_author,comment_author_email,comment_date,comment_content,comment_approved,comment_type,rating,verified
+999801,21211,Sample Reviewer One,reviewer1.sample@example.com,2025-04-02 11:00:00,"Light oil, good for frying. ""Will buy again""",1,review,5,1
+999802,21211,Sample Reviewer Two,reviewer2.sample@example.com,2025-04-10 15:30:00,"Packing was fine,
+delivery took 4 days.",0,review,4,0
+999803,20228,Spam Bot,spam.sample@example.com,2025-05-01 00:00:00,cheap casino bonus,spam,review,5,0
+999804,12345678,Lost Product,lost.sample@example.com,2025-05-01 00:00:00,Review for a product that does not exist,1,review,3,0
+999805,21211,WooCommerce,,2025-05-02 00:00:00,Order status changed from Pending to Processing.,1,order_note,,

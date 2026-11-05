@@ -1,0 +1,521 @@
+{
+ "banners": [
+  {
+   "image": "/images/home/Canola-Oil.webp",
+   "alt": "Jivo Cold Pressed Canola Oil"
+  },
+  {
+   "image": "/images/home/Olive-2.webp",
+   "alt": "Jivo Olive Oil range"
+  },
+  {
+   "image": "/images/home/Combo.webp",
+   "alt": "Jivo combo offers"
+  },
+  {
+   "image": "/images/home/Comidity.webp",
+   "alt": "Jivo healthy foods"
+  },
+  {
+   "image": "/images/home/Punjabi-Jeera-website-banner-arshdeep-singh2.webp",
+   "alt": "Jivo Wheatgrass Punjabi Jeera Juice"
+  }
+ ],
+ "marquee1": [
+  "LARGEST SELLER OF CANOLA OIL IN INDIA",
+  "MORE THAN 300 CERTIFICATIONS",
+  "100+ AWARDS & RECOGNITIONS",
+  "Pure from Nature & Free from Chemicals"
+ ],
+ "infoTiles": [
+  {
+   "title": "Fast Shipping",
+   "text": "Free delivery above ₹499 All Over India",
+   "lottie": "/images/lottie/Delivery_icon-Lottie.json"
+  },
+  {
+   "title": "Seamless Payments",
+   "text": "Super convenient order placement process",
+   "lottie": "/images/lottie/QR_icon-Lottie.json"
+  },
+  {
+   "title": "Coupons",
+   "text": "Get Flat 200 Off on shopping above ₹5000/- Use Code – JIVO200",
+   "lottie": "/images/lottie/Gift_icon-Lottie.json"
+  }
+ ],
+ "spotlight": {
+  "title": "In The Spotlight",
+  "subtitle": "Explore the range of our top rated products",
+  "items": [
+   {
+    "title": "Buy Canola Oil And Premium Tea | Combo",
+    "productSlug": "canola-5l-with-jivo-premium-tea-leaves-250g",
+    "image": "/images/home/5L-Canola-tea-Front.jpg-2.jpeg",
+    "ratingText": "4.58 | (238)",
+    "stars": 4.5,
+    "regularPrice": 1850,
+    "price": 1209
+   },
+   {
+    "title": "Buy Canola Oil And Kirpa Desi Ghee | Combo",
+    "productSlug": "canola-5l-and-kirpa-desi-ghee-1kg",
+    "image": "/images/home/5L-Canola-1L-Ghee.jpg.jpeg",
+    "ratingText": "4.31 | (369)",
+    "stars": 4,
+    "regularPrice": 3149,
+    "price": 1749
+   },
+   {
+    "title": "Buy First Pressed Yellow Mustard Oil",
+    "productSlug": "jivo-first-pressed-yellow-mustard-oil",
+    "image": "/images/home/Yellow-Mustard-1.jpg",
+    "ratingText": "4.44 | (124)",
+    "stars": 5,
+    "regularPrice": 375,
+    "price": 259
+   },
+   {
+    "title": "Buy Extra Virgin Coconut Oil",
+    "productSlug": "jivo-extra-virgin-coconut-oil",
+    "image": "/images/home/Coconut-1L-2.jpg",
+    "ratingText": "4.33 | (698)",
+    "stars": 4.5,
+    "regularPrice": 700,
+    "price": 519
+   }
+  ]
+ },
+ "trust": [
+  "Trusted by 1 Lakh+ Families",
+  "Chemical Free Products",
+  "Secure Payments",
+  "100% Natural & Organic",
+  "Quick Support"
+ ],
+ "range": {
+  "title": "Our Range",
+  "subtitle": "Explore our top four categories",
+  "items": [
+   {
+    "categorySlug": "super-oils",
+    "title": "Super Oils",
+    "image": "/images/home/Super-Oils.jpg",
+    "text": "Our range of premium edible oils is crafted to elevate everyday cooking with rich flavor and premium quality."
+   },
+   {
+    "categorySlug": "super-food",
+    "title": "Super Foods",
+    "image": "/images/home/Super-foods.jpg",
+    "text": "Every superfood we offer is chosen for quality, delivering essential nutrients to support your wellness."
+   },
+   {
+    "categorySlug": "special-offers",
+    "title": "Special Offers",
+    "image": "/images/home/Special-Offer.jpg",
+    "text": "Enjoy unbeatable special offers on our premium edible oils and superfoods, crafted for everyday healthy living."
+   },
+   {
+    "categorySlug": "super-juice",
+    "title": "Super Juices",
+    "image": "/images/home/Super-juices.jpg",
+    "text": "Enjoy our revitalizing drinks crafted to hydrate, energize, and provide nourishing wellness in every sip."
+   }
+  ]
+ },
+ "healthy": {
+  "before": "Building a healthy economy together!",
+  "title": "By integrating expertise and skill to innovate products which make life a healthier place",
+  "after": "Find out how #HealthyInnovation",
+  "button": "Our Story",
+  "link": "https://jivo.in/about/who-we-are",
+  "image": "/images/home/healthy-economy-vector.webp",
+  "background": "#2E3A84"
+ },
+ "dealsSection": {
+  "background": "/images/home/oils-doodles-background2.jpg",
+  "juiceBanner": "/images/home/Punjabi-Jeera-website-banner-arshdeep-singh-390-x-600-px-01-01.webp",
+  "juiceButton": "Order Now!",
+  "juiceProductSlug": "jivo-wheatgrass-punjabi-jeera-juice-pack-of-24-160ml-pet-bottles",
+  "title": "Deals Of The Week",
+  "productTag": "deal-of-the-week"
+ },
+ "marquee2": [
+  "Fresh Deliveries, Doorstep Convenience",
+  "Exclusive Deals, Popular Picks",
+  "Best Products, Best Prices",
+  "Instant Refresh, Fast Delivery",
+  "Quality, Convenience, Quick Delivery!"
+ ],
+ "tenets": {
+  "title": "Our Core Tenets",
+  "background": "#005E52",
+  "items": [
+   {
+    "title": "Intelligence is what we believe",
+    "text": "At Jivo, we focus on creating intelligent, sustainable nutrition with all-natural cooking oils. Inspired by tradition and made with pure ingredients, our oils promote health without any additives. Designed for today's kitchens, they bring natural goodness to every meal."
+   },
+   {
+    "title": "Every day, nutrition matters.",
+    "text": "Jivo ensures that daily nutrition is simple and sustainable. Our products are easy to use but never compromise on health, making it effortless to nourish your body. Enjoy the benefits of convenience without sacrificing long-term wellness."
+   },
+   {
+    "title": "By you, we mean everyone.",
+    "text": "Jivo’s cooking oils are crafted to provide balanced nutrition for the entire family. From kids to grandparents, our oils support healthy living for all. We aim to help families live healthier, together, with Jivo."
+   }
+  ]
+ },
+ "testimonials": {
+  "title": "Testimonials",
+  "subtitle": "See what our esteemed customers have to say",
+  "background": "#FFCB42",
+  "items": [
+   {
+    "text": "Jivo ka Canola Oil mere kitchen ka must-have ban gaya hai! is oil se khana healthy aur light ban jata hai. Totally recommend for everyday cooking",
+    "name": "Sunita Devi",
+    "image": "/images/home/review-cover-2.png"
+   },
+   {
+    "text": "Switching to Jivo's Basmati Rice was one of the best decisions I've made for my family's diet. The grains are always long, fluffy, and aromatic, making every meal special",
+    "name": "Mukesh Kumar",
+    "image": "/images/home/testimonial-image-2-1.png"
+   },
+   {
+    "text": "I highly recommend Jivo to anyone looking for quality and health in their meals",
+    "name": "Sakshi Mehta",
+    "image": "/images/home/testimonial-image-1-1.png"
+   },
+   {
+    "text": "I trust Jivo for providing quality products that support a healthy lifestyle. I wholeheartedly recommend Jivo to others",
+    "name": "Urmila Talpade",
+    "image": "/images/home/review-cover-1.png"
+   },
+   {
+    "text": "Jivo ka A2 Organic Desi Ghee waise hi hai jaise ghar ka bana ho. Iska taste aur purity bilkul natural lagta hai. Humare ghar mein yeh sabka favorite hai",
+    "name": "Mukesh Yadav",
+    "image": "/images/home/review-cover-5.png"
+   },
+   {
+    "text": "Ever since I started using Jivo's Sunflower Oil, my food feels lighter and more nutritious. It’s perfect for deep frying, and the oil doesn’t feel greasy at all",
+    "name": "Adesh Pasricha",
+    "image": "/images/home/review-cover-3.png"
+   },
+   {
+    "text": "Jivo ke Mustard Oil ne mere paranthas aur achar ka taste bilkul asli bana diya or iski quality or purity bahut acchi hai, bilkul ghar ka bana lagta hai",
+    "name": "Ekam Singh",
+    "image": "/images/home/samar.png"
+   },
+   {
+    "text": "I've been using Jivo Desi Ghee for about three years from now and so far the journey has been really great!",
+    "name": "Kanika Singh <div class=\"elementor-element elementor-element-2abea83 elementor-widget",
+    "image": "/images/home/review-cover-4.png"
+   }
+  ]
+ },
+ "news": {
+  "title": "In The News",
+  "items": [
+   {
+    "title": "Launch of India's first Canola oil plant in New Delhi",
+    "link": "https://www.thehindu.com/business/companies/Jivo-Wellness-opens-second-canola-oil-plant-in-Delhi/article15972195.ece",
+    "image": "/images/home/The-Hindu.jpg",
+    "source": "The Hindu"
+   },
+   {
+    "title": "Jivo is one of India's leading companies dealing in the healthy cooking oil segment",
+    "link": "https://fnbnews.com/Interview/500-employees-with-a-turnover-of-rs-163-crore-fy-201920-63810",
+    "image": "/images/home/FnBnews.jpg",
+    "source": "FnB News"
+   },
+   {
+    "title": "Jivo holds 80% market share in Canola oil",
+    "link": "https://nuffoodsspectrum.in/2021/03/18/jivo-wellness-enters-beverage-and-breakfast-market.html",
+    "image": "/images/home/FFoods-Spectrum.jpg",
+    "source": "NuFFooDS Spectrum"
+   },
+   {
+    "title": "Jivo Canola Cooking Oil provides the highest unsaturated (good) fats and the lowest saturated (bad) fats amongst all cooking oils in the world",
+    "link": "https://www.business-standard.com/article/press-releases/jivo-wellness-launches-canola-oil-super-saver-pack-111062000109_1.html",
+    "image": "/images/home/Business-Standard.jpg",
+    "source": "Business Standard"
+   },
+   {
+    "title": "Giants like Reliance, Walmart and Big Bazaar approached Jivo for a place on their shelves",
+    "link": "https://yourstory.com/smbstory/story-jivo-wellness-canola-oil-baba-iqbal-singh",
+    "image": "/images/home/SMB-Story.jpg",
+    "source": "YourStory SMB"
+   }
+  ]
+ },
+ "megaMenu": {
+  "banner": "/images/home/Jivo-Oils-Megamenu-banner-1.jpg",
+  "bannerTitle": "Deal Offer",
+  "bannerText": "Get Up To 55% Off",
+  "bannerLink": "/product-category/special-offers/",
+  "items": [
+   {
+    "label": "CANOLA OIL",
+    "productSlug": "jivo-cold-press-canola-oil",
+    "image": "/images/home/61zwsEknZ0L._SL1500_-2.jpg"
+   },
+   {
+    "label": "GROUNDNUT OIL",
+    "productSlug": "jivo-cold-press-groundnut-oil",
+    "image": "/images/home/71DaLMWi52L._SL1500_-1-1.jpg"
+   },
+   {
+    "label": "EXTRA VIRGIN OLIVE OIL",
+    "productSlug": "jivo-extra-virgin-olive-oil",
+    "image": "/images/products/hd/home-extra-virgin-olive-oil-front-jpg.webp"
+   },
+   {
+    "label": "SUNFLOWER OIL",
+    "productSlug": "jivo-cold-press-sunflower-oil",
+    "image": "/images/home/61mgkOsBTL._SL1500_.jpg"
+   },
+   {
+    "label": "EXTRA LIGHT OLIVE OIL",
+    "productSlug": "jivo-extra-light-olive-oil",
+    "image": "/images/home/716cg0hbg3L._SL1500_.jpg"
+   },
+   {
+    "label": "MUSTARD OIL",
+    "productSlug": "jivo-kachi-ghani-mustard-oil",
+    "image": "/images/home/61VtFODgvEL._SL1500_-1.jpg"
+   },
+   {
+    "label": "JIVO POMACE OLIVE OIL",
+    "productSlug": "jivo-pomace-olive-oil",
+    "image": "/images/home/l.jpg"
+   },
+   {
+    "label": "SANO POMACE OLIVE OIL",
+    "productSlug": "sano-pomace-olive-oil",
+    "image": "/images/home/Sano-pomace-transparent.png"
+   }
+  ]
+ },
+ "mobileMenu": {
+  "quickLinks": [
+   {
+    "label": "Shop All",
+    "href": "/shop/"
+   },
+   {
+    "label": "FAQ's",
+    "href": "/faq/"
+   },
+   {
+    "label": "Contact Us",
+    "href": "/contact-us/"
+   },
+   {
+    "label": "Blogs",
+    "href": "/blogs/"
+   }
+  ],
+  "groups": [
+   {
+    "title": "Oils",
+    "items": [
+     {
+      "label": "Canola Oil",
+      "tag": "Cold Press",
+      "productSlug": "jivo-cold-press-canola-oil",
+      "image": "/images/home/61zwsEknZ0L._SL1500_-2.jpg"
+     },
+     {
+      "label": "Extra Virgin Olive Oil",
+      "productSlug": "jivo-extra-virgin-olive-oil",
+      "image": "/images/home/extra-virgin.png"
+     },
+     {
+      "label": "Extra Light Olive Oil",
+      "productSlug": "jivo-extra-light-olive-oil",
+      "image": "/images/home/extra-light.png"
+     },
+     {
+      "label": "Jivo Pomace Olive Oil",
+      "productSlug": "jivo-pomace-olive-oil",
+      "image": "/images/home/pomace.png"
+     },
+     {
+      "label": "Sano Pomace Olive Oil",
+      "productSlug": "sano-pomace-olive-oil",
+      "image": "/images/home/Sano-pomace-transparent.png"
+     },
+     {
+      "label": "Mustard Oil",
+      "tag": "Cold Press",
+      "productSlug": "jivo-kachi-ghani-mustard-oil",
+      "image": "/images/home/mustard.png"
+     },
+     {
+      "label": "Sunflower Oil",
+      "tag": "Cold Press",
+      "productSlug": "jivo-cold-press-sunflower-oil",
+      "image": "/images/home/Sunflower.png"
+     },
+     {
+      "label": "Groundnut Oil",
+      "tag": "Cold Press",
+      "productSlug": "jivo-cold-press-groundnut-oil",
+      "image": "/images/home/71DaLMWi52L._SL1500_-1-1.jpg"
+     },
+     {
+      "label": "Rice Bran Oil",
+      "productSlug": "jivo-rice-bran-oil",
+      "image": "/images/home/rice-bran.png"
+     },
+     {
+      "label": "Soyabean Oil",
+      "productSlug": "jivo-soyabean-oil",
+      "image": "/images/home/soyabean.png"
+     },
+     {
+      "label": "Extra Virgin Coconut Oil",
+      "productSlug": "jivo-extra-virgin-coconut-oil",
+      "image": "/images/home/Coconut-1L.jpg"
+     },
+     {
+      "label": "Gold Refined Oil",
+      "productSlug": "jivo-gold-refined-oil",
+      "image": "/images/home/Jivo-Gold.webp"
+     }
+    ]
+   },
+   {
+    "title": "Juices",
+    "items": [
+     {
+      "label": "Jivo Wheatgrass Punjabi Jeera Juice – Pack of 24 (160ML Pet Bottles)",
+      "productSlug": "jivo-wheatgrass-punjabi-jeera-juice-pack-of-24-160ml-pet-bottles",
+      "image": "/images/home/Punjabi-jeera-1.webp"
+     },
+     {
+      "label": "Jivo Apple Healthy Wheatgrass Juice – Pack of 12 (200ML Glass Bottles)",
+      "productSlug": "jivo-apple-healthy-wheatgrass-juice-pack-of-12-200ml-glass-bottles",
+      "image": "/images/home/Wheatgrass-Apple.webp"
+     },
+     {
+      "label": "Jivo Blueberry Healthy Wheatgrass Juice – Pack of 12 (200ML Glass Bottles)",
+      "productSlug": "jivo-blueberry-healthy-wheatgrass-juice-pack-of-12-200ml-glass-bottles",
+      "image": "/images/home/Wheatgrass-Blueberry-2.webp"
+     },
+     {
+      "label": "Jivo Mango Healthy Wheatgrass Juice – Pack of 12 (200ML Glass Bottles)",
+      "productSlug": "jivo-mango-healthy-wheatgrass-juice-pack-of-12-200ml-glass-bottles",
+      "image": "/images/home/Wheatgrass-Mango.webp"
+     },
+     {
+      "label": "Jivo Mojito Healthy Wheatgrass Juice – Pack of 12 (200ML Glass Bottles) Sugar Free",
+      "productSlug": "jivo-mojito-healthy-wheatgrass-juice-pack-of-12-200ml-glass-bottles-sugar-free",
+      "image": "/images/home/front.webp"
+     }
+    ]
+   },
+   {
+    "title": "Foods",
+    "items": [
+     {
+      "label": "Kirpa Desi Ghee",
+      "productSlug": "kirpa-desi-ghee",
+      "image": "/images/products/hd/home-1l-desi-ghee-front-1-jpg.webp"
+     },
+     {
+      "label": "Jivo A2 Cow Ghee",
+      "productSlug": "jivo-a2-cow-ghee",
+      "image": "/images/home/A2-Ghee-New-Front.webp"
+     },
+     {
+      "label": "Jivo Premium Tea Leaves 250g",
+      "productSlug": "jivo-premium-tea-leaves-250g",
+      "image": null
+     }
+    ]
+   },
+   {
+    "title": "Combos",
+    "items": [
+     {
+      "label": "Jivo Canola 5L And Kirpa Desi Ghee 1KG | Combo",
+      "productSlug": "canola-5l-and-kirpa-desi-ghee-1kg",
+      "image": "/images/home/5L-Canola-1L-Ghee.jpg.jpeg"
+     },
+     {
+      "label": "Jivo Canola 5L With Premium Tea Leaves 250g | Combo",
+      "productSlug": "canola-5l-with-jivo-premium-tea-leaves-250g",
+      "image": "/images/home/5L-Canola-tea-Front.jpg.webp"
+     },
+     {
+      "label": "Jivo Canola Oil 5L and Jivo Extra Light Olive Oil 1L | Combo",
+      "productSlug": "canola-oil-5-l-extra-light-olive-oil-1l",
+      "image": "/images/home/Canola-5L-Extra-light-1L-Front.jpg.jpeg"
+     },
+     {
+      "label": "Jivo Canola Oil 5L and Jivo Extra Virgin Olive Oil 1L | Combo",
+      "productSlug": "jivo-canola-oil-5l-and-jivo-extra-virgin-olive-oil-1l-combo",
+      "image": "/images/home/Canola-5L-Extra-Virgin-1L-Front.jpg.jpeg"
+     }
+    ]
+   }
+  ]
+ },
+ "searchPopup": {
+  "title": "What Are You Looking For?",
+  "trending": [
+   "canola oil",
+   "organic ghee",
+   "olive oil",
+   "basmati rice"
+  ],
+  "shortcuts": [
+   {
+    "label": "CANOLA OIL",
+    "productSlug": "jivo-cold-press-canola-oil",
+    "image": "/images/home/61zwsEknZ0L._SL1500_-2.jpg"
+   },
+   {
+    "label": "GROUNDNUT OIL",
+    "productSlug": "jivo-cold-press-groundnut-oil",
+    "image": "/images/home/71DaLMWi52L._SL1500_-1-1.jpg"
+   },
+   {
+    "label": "EXTRA VIRGIN OLIVE OIL",
+    "productSlug": "jivo-extra-virgin-olive-oil",
+    "image": "/images/products/hd/home-extra-virgin-olive-oil-front-jpg.webp"
+   },
+   {
+    "label": "SUNFLOWER OIL",
+    "productSlug": "jivo-cold-press-sunflower-oil",
+    "image": "/images/home/61mgkOsBTL._SL1500_.jpg"
+   }
+  ]
+ },
+ "shopTiles": [
+  {
+   "title": "Super Oils",
+   "categorySlug": "super-oils",
+   "image": "/images/home/Super-Oils.jpg"
+  },
+  {
+   "title": "Super Foods",
+   "categorySlug": "super-food",
+   "image": "/images/home/Super-foods.jpg"
+  },
+  {
+   "title": "Special Offers",
+   "categorySlug": "special-offers",
+   "image": "/images/home/Special-Offer.jpg"
+  }
+ ],
+ "shopBanners": {
+  "wide": [
+   "/images/home/Super-Oils-Banner-shop.jpg",
+   "/images/home/Super-foods-banner-shop-new.jpg"
+  ],
+  "side": [
+   "/images/home/Jivo-shop-page-Top-Banner-Mobile.webp"
+  ]
+ }
+}

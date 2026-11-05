@@ -1,0 +1,4 @@
+ID,post_title,post_excerpt,post_status,post_date,discount_type,coupon_amount,individual_use,free_shipping,minimum_amount,maximum_amount,date_expires,usage_limit,usage_count,usage_limit_per_user,product_ids,exclude_product_ids
+999501,SAMPLE200,"Sample: flat ₹200 off above ₹5000 (fake)",publish,2024-01-01 00:00:00,fixed_cart,200,yes,no,5000,,1767225600,,57,1,,
+999502,SAMPLE10,"10% off, sample coupon (fake)",publish,2024-03-01 00:00:00,percent,10,no,no,999,20000,2026-12-31,500,3,,,
+999503,SHIPFREE-SAMPLE,Free shipping sample,draft,2024-03-01 00:00:00,fixed_cart,0,no,yes,,,,,0,,,

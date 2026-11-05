@@ -1,0 +1,60 @@
+/**
+ * All site URLs in one place. The old WordPress site used trailing slashes
+ * (e.g. /product/jivo-rice-bran-oil/), and next.config.ts sets trailingSlash: true,
+ * so every path here ends with "/" to avoid an extra redirect.
+ */
+export const routes = {
+  home: "/",
+  shop: "/shop/",
+  shopPage: (page: number) => (page <= 1 ? "/shop/" : `/shop/page/${page}/`),
+  category: (slug: string) => `/product-category/${slug}/`,
+  categoryPage: (slug: string, page: number) => (page <= 1 ? `/product-category/${slug}/` : `/product-category/${slug}/page/${page}/`),
+  product: (slug: string, attribute?: { slug: string; value: string }) =>
+    attribute ? `/product/${slug}/?attribute_${attribute.slug}=${encodeURIComponent(attribute.value)}` : `/product/${slug}/`,
+  search: (q: string) => `/shop/?s=${encodeURIComponent(q)}`,
+  cart: "/cart/",
+  checkout: "/checkout/",
+  orderReceived: (orderNumber: string, key: string) => `/checkout/order-received/${orderNumber}/?key=${encodeURIComponent(key)}`,
+  account: "/my-account/",
+  accountOrders: "/my-account/orders/",
+  accountOrder: (orderNumber: string) => `/my-account/view-order/${orderNumber}/`,
+  accountAddresses: "/my-account/edit-address/",
+  accountAddress: (type: "billing" | "shipping") => `/my-account/edit-address/${type}/`,
+  accountDetails: "/my-account/edit-account/",
+  lostPassword: "/my-account/lost-password/",
+  resetPassword: (token: string) => `/my-account/reset-password/?token=${encodeURIComponent(token)}`,
+  wishlist: "/wishlist/",
+  compare: "/compare/",
+  trackOrder: "/track-order/",
+  faq: "/faq/",
+  contact: "/contact-us/",
+  about: "/about-us/",
+  blogs: "/blogs/",
+  post: (slug: string) => `/${slug}/`,
+  privacy: "/privacy-policy/",
+  refund: "/refund_returns/",
+  shipping: "/shipping-policy/",
+  terms: "/terms-conditions/",
+  disclaimer: "/disclaimer/",
+  admin: "/admin/",
+} as const;
+
+/** API endpoints (route handlers under src/app/api). */
+export const api = {
+  cart: "/api/cart/",
+  cartItems: "/api/cart/items/",
+  cartCoupon: "/api/cart/coupon/",
+  cartShipping: "/api/cart/shipping/",
+  search: (q: string, category?: string) => `/api/search/?q=${encodeURIComponent(q)}${category ? `&category=${encodeURIComponent(category)}` : ""}`,
+  wishlist: "/api/wishlist/",
+  waitlist: "/api/waitlist/",
+  newsletter: "/api/newsletter/",
+  contact: "/api/contact/",
+  reviews: "/api/reviews/",
+  checkout: "/api/checkout/",
+  checkoutVerify: "/api/checkout/verify/",
+  checkoutTotals: "/api/checkout/totals/",
+  checkoutPay: "/api/checkout/pay/",
+  razorpayWebhook: "/api/razorpay/webhook/",
+  trackOrder: "/api/track-order/",
+} as const;

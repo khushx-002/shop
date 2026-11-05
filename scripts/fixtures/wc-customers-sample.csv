@@ -1,0 +1,6 @@
+customer_id,user_login,user_email,first_name,last_name,display_name,roles,user_registered,billing_first_name,billing_last_name,billing_company,billing_email,billing_phone,billing_address_1,billing_address_2,billing_city,billing_state,billing_postcode,billing_country,shipping_first_name,shipping_last_name,shipping_company,shipping_address_1,shipping_address_2,shipping_city,shipping_state,shipping_postcode,shipping_country
+999901,asha.test,asha.sample@example.com,Asha,Testwala,Asha T,customer,2024-02-11 10:15:00,Asha,Testwala,,asha.sample@example.com,+91 98765 00001,"Flat 12, Sample Apartments","Sector 0, Test Nagar",New Delhi,DL,110001,IN,Asha,Testwala,,"Flat 12, Sample Apartments","Sector 0, Test Nagar",New Delhi,DL,110001,IN
+999902,ravi.test,Ravi.Sample@Example.com,Ravi,"Kumar ""RK"" Demo",Ravi K,customer,2024-05-30 18:40:12,Ravi,Kumar Demo,Demo Traders Pvt Ltd,ravi.sample@example.com,09876500002,"Shop 4, Fake Market",,Mumbai,Maharashtra,400001,IN,Ravi,Kumar Demo,,"Warehouse 7, Placeholder Road
+Gate 2",,Thane,MH,400601,IN
+999903,staff.test,staff.sample@example.com,Store,Manager,Store Manager,shop_manager,2023-11-01 09:00:00,,,,,,,,,,,,,,,,,,,,
+999904,broken.test,not-an-email,Broken,Row,,customer,2024-01-01 00:00:00,,,,,,,,,,,,,,,,,,,,

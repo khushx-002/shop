@@ -1,0 +1,47 @@
+[
+ {
+  "legacyId": 247,
+  "slug": "special-offers",
+  "name": "Special Offers",
+  "description": "Enjoy unbeatable special offers on our premium edible oils and superfoods, crafted for everyday healthy living.",
+  "image": "/images/home/Special-Offer.jpg",
+  "sortOrder": 3,
+  "showInMenu": true
+ },
+ {
+  "legacyId": 18,
+  "slug": "super-food",
+  "name": "Super Food",
+  "description": "Every superfood we offer is chosen for quality, delivering essential nutrients to support your wellness.",
+  "image": "/images/home/Super-foods.jpg",
+  "sortOrder": 2,
+  "showInMenu": true
+ },
+ {
+  "legacyId": 277,
+  "slug": "super-juice",
+  "name": "Super Juice",
+  "description": "Enjoy our revitalizing drinks crafted to hydrate, energize, and provide nourishing wellness in every sip.",
+  "image": "/images/home/Super-juices.jpg",
+  "sortOrder": 4,
+  "showInMenu": true
+ },
+ {
+  "legacyId": 17,
+  "slug": "super-oils",
+  "name": "Super Oils",
+  "description": "Our range of premium edible oils is crafted to elevate everyday cooking with rich flavor and premium quality.",
+  "image": "/images/home/Super-Oils.jpg",
+  "sortOrder": 1,
+  "showInMenu": true
+ },
+ {
+  "legacyId": 15,
+  "slug": "uncategorized",
+  "name": "Uncategorized",
+  "description": "",
+  "image": null,
+  "sortOrder": 9,
+  "showInMenu": false
+ }
+]

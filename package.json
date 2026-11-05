@@ -1,0 +1,53 @@
+{
+  "name": "shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "tsx scripts/migrate.ts",
+    "db:seed": "tsx scripts/seed.ts",
+    "db:reset": "node -e \"require(\\\"fs\\\").rmSync(\\\".data\\\",{recursive:true,force:true})\" && npm run db:migrate && npm run db:seed",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "audit:lighthouse": "node scripts/lighthouse.mjs",
+    "verify:migration": "tsx scripts/verify-migration.ts",
+    "import:woocommerce": "tsx scripts/import-woocommerce.ts"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.5.9",
+    "dotenv": "^18.0.7",
+    "drizzle-orm": "^0.45.4",
+    "embla-carousel-autoplay": "^8.6.0",
+    "embla-carousel-react": "^8.6.0",
+    "jose": "^6.2.12",
+    "lottie-web": "^5.13.0",
+    "next": "16.4.3",
+    "nodemailer": "^10.1.0",
+    "pg": "^8.23.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "server-only": "^0.0.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^24.19.2",
+    "@types/nodemailer": "^8.0.2",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "drizzle-kit": "^0.31.11",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5",
+    "vitest": "^5.0.4"
+  }
+}

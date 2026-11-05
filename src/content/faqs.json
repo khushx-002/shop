@@ -1,0 +1,57 @@
+[
+ {
+  "id": "quality",
+  "q": "What quality are the products?",
+  "a": "All Jivo products are tested for functionality and durability. In the unlikely case that a product is faulty, contact the Customer Care team (info@jivo.in) and they will work to resolve the issue promptly."
+ },
+ {
+  "id": "returns-refunds",
+  "q": "Can I return an item for a refund?",
+  "a": "Once an order is placed, the item is non-refundable because it is a consumable (food) item. If a product arrives damaged or unusable, Jivo will replace the order, but a refund is not given. The replacement is only possible if you inform the company within 24-48 hours of delivery. Email info@jivo.in with your order number and photos of the damage."
+ },
+ {
+  "id": "contact",
+  "q": "How can I get in touch with Customer Care?",
+  "a": "Email info@jivo.in (customer service). You can also call the toll-free number 1800 137 4433. The company address is J3/190, Nehru Market, Rajouri Garden, New Delhi - 110027."
+ },
+ {
+  "id": "cancel",
+  "q": "Can I cancel my order?",
+  "a": "No. An order cannot be cancelled once it is placed. Any updates or requests about an order can be sent to info@jivo.in."
+ },
+ {
+  "id": "weekend-delivery",
+  "q": "Are orders delivered on weekends?",
+  "a": "No. Orders are not shipped or delivered on weekends or holidays."
+ },
+ {
+  "id": "change-address",
+  "q": "Can I change the shipping address on my order?",
+  "a": "Yes, you can change the shipping address and contact details as long as the order has not yet been dispatched. Email customer service at info@jivo.in with your order number and the new address."
+ },
+ {
+  "id": "track-order",
+  "q": "How can I track my order?",
+  "a": "You will receive a Shipment Confirmation email once your order has shipped. It contains your tracking number(s), which is activated straight away. The shop also has a Track Order page: https://shop.jivo.in/track-order/"
+ },
+ {
+  "id": "where-to-buy",
+  "q": "Where can I buy Jivo products online?",
+  "a": "Jivo's official online store is https://shop.jivo.in (Jivo Mart). It sells the full range of Jivo cooking oils and combo offers."
+ },
+ {
+  "id": "about-jivo",
+  "q": "Who is Jivo?",
+  "a": "Jivo Wellness Pvt. Ltd. is a wellness company based in New Delhi, India. It sells healthy cooking oils (cold-pressed canola, olive, mustard, sunflower, groundnut, rice bran, soyabean, coconut), ghee, wheatgrass drinks and other wellness products. Jivo describes its purpose as serving humanity, with its earnings reinvested in its wellness and service mission. Its stated principles are Truth, Devotion and Sewa (selfless service)."
+ },
+ {
+  "id": "privacy",
+  "q": "Does Jivo share my personal data?",
+  "a": "Jivo's privacy policy says it does not sell, rent or trade personal information to third parties. Data sent to the website uses encryption. If you gave your phone or email you may get messages about new programs or offers; to opt out, email info@jivo.in. Full policy: https://www.jivo.in/privacy-policy"
+ },
+ {
+  "id": "payment-cod",
+  "q": "Do you accept cash on delivery or which payment methods do you accept?",
+  "a": "Payment methods are chosen at checkout on https://shop.jivo.in/checkout/. The public pages we verified do not list the exact payment options (for example cash on delivery), so please check the checkout page or email info@jivo.in to confirm."
+ }
+]
